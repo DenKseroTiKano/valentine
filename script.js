@@ -60,7 +60,7 @@ noBtn.addEventListener("mouseover", () => {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Letssssss fuckingggg goooooo!Ντεμογκοργκόνα μου ταιπ σιτ";
+    title.textContent = "Letssss fuckingg goooo!Ντεμογκοργκόνα μου ταιπ σιτ!";
 
     catImg.src = "cat_dance.gif";
 
@@ -68,4 +68,5 @@ yesBtn.addEventListener("click", () => {
 
     finalText.style.display = "block";
 });
+
 
